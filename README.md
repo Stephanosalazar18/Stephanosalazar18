@@ -1,4 +1,6 @@
-
+<div align="center" style="width: 100%;">
+  <img src="./assets/animation.gif" alt="background" style="max-width: 100%;" />
+</div>
 
 <h3 align="center">
   Hey there 
@@ -168,3 +170,4 @@ I-am-vishalmaurya@github
 <br/>
 
 ---
+
