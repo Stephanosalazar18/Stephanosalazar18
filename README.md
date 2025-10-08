@@ -20,7 +20,8 @@ Angular
 Blockchain
 -------------------------
 💻 I am a Full Stack Developer and a Machine Learning Developer
-📝 I have a keen interest in web development, data science, artificial intelligence, blockchain, cybersecurity, and everything related to computer science.
+📝 I have a keen interest in web development, data science, artificial intelligence,
+    blockchain, cybersecurity, and everything related to computer science.
 🌟 Main languages: Python, JavaScript, Typescript
 🚩 Interested in Full Stack Machine Learning Application development
 🎵 Love nu metal, idm, jazz, {listen to burial}
@@ -94,4 +95,5 @@ Blockchain
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </a>
 </div>
+
 
