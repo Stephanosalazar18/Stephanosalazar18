@@ -1,18 +1,17 @@
 <h3 align="center">
-  Hey there 
+  Hi 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-</h3>
-<div align="center" style="width: 100%;">
+ i'm Stephanosalazar18@github
   <img 
     src="./assets/z.gif" 
     alt="background" 
-    style="width: 100%; height: 40px;"
+    style="width: 30px; height: 30px;"
   />
-</div>
+</h3>
+<img src="/assets/back.gif" width=1000px height=20px align="center">
 
 
 ```
-Stephanosalazar18@github
 -------------------------
 🌱 I’m currently learning ...
 Nest.js
@@ -25,40 +24,14 @@ Blockchain
 🌟 Main languages: Python, JavaScript, Typescript
 🚩 Interested in Full Stack Machine Learning Application development
 🎵 Love nu metal, idm, jazz, {listen to burial}
-📫 Reach out to me at: @gmail.com
+📫 Reach out to me at: stephanosalazar18@gmail.com
+-------------------------
 ```
-
-<p align="center">
-	<img width=40px height=40px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-	<a href="">
-		<img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/>
-	</a>
-	<img width=40px height=40px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-</p>
-
 <hr>
-
-<h2 align="left">
-<img width=20px height=20px alt="side_sticker" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmt0ZHBkcnMzZXNueHZsbGtldWF3d3Y5NDJ0YXV4b3d5YWNjYmRvZyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/DyEqRnO5K7taEEVfoB/giphy.gif" />
-  Connect with me 
-</h2>
-
-<a href="mailto:@gmail.com">
-	<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="">
-	<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/">
-	<img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="">
-	<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=X&logoColor=white" alt=""/>
-</a>
 
 <h2> 
 	<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
-	Skills 
+	My Skills Include 
 </h2>
 <div>
 <a  target="_blank"> 
@@ -95,5 +68,27 @@ Blockchain
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </a>
 </div>
+
+
+<h2 align="left">
+<img width=20px height=20px alt="side_sticker" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmt0ZHBkcnMzZXNueHZsbGtldWF3d3Y5NDJ0YXV4b3d5YWNjYmRvZyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/DyEqRnO5K7taEEVfoB/giphy.gif" />
+  Connect with me 
+</h2>
+
+<div>
+	<img width=30px height=30px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<a href="mailto:stephanosalazar18@gmail.com">
+	<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/gabriel-salazar-792727262">
+	<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/Stephanosalaz">
+	<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=X&logoColor=white" alt=""/>
+</a>
+	<img width=30px height=30px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+	<img src="/assets/bob.gif" width=100px height=100px align="right">
+</div>
+
 
 
