@@ -8,7 +8,6 @@
     style="width: 30px; height: 30px;"
   />
 </h3>
-<img src="/assets/back.gif" width=1000px height=20px align="center">
 
 
 ```
@@ -89,6 +88,7 @@ Blockchain
 	<img width=30px height=30px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 	<img src="/assets/bob.gif" width=100px height=100px align="right">
 </div>
+
 
 
 
