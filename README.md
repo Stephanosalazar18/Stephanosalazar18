@@ -15,7 +15,7 @@
 🌱 I’m currently learning ...
 Nest.js
 Angular
-Blockchain
+ 
 -------------------------
 💻 I am a Full Stack Developer and a Machine Learning Developer
 📝 I have a keen interest in web development, data science, artificial intelligence,
@@ -88,6 +88,7 @@ Blockchain
 	<img width=30px height=30px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 	<img src="/assets/bob.gif" width=100px height=100px align="right">
 </div>
+
 
 
 
