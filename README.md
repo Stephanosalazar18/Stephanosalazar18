@@ -14,7 +14,7 @@
 -------------------------
 🌱 I’m currently learning ...
 Nest.js
-Angular
+Bloackchain
  
 -------------------------
 💻 I am a Full Stack Developer and a Machine Learning Developer
