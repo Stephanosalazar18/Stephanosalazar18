@@ -82,9 +82,6 @@ Bloackchain
 <a href="https://www.linkedin.com/in/gabriel-salazar-792727262">
 	<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://x.com/Stephanosalaz">
-	<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=X&logoColor=white" alt=""/>
-</a>
 	<img width=30px height=30px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 	<img src="/assets/bob.gif" width=100px height=100px align="right">
 </div>
