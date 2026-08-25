@@ -13,7 +13,6 @@
 ```
 -------------------------
 🌱 I’m currently learning ...
-Nest.js
 Bloackchain
  
 -------------------------
